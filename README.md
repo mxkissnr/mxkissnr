@@ -13,14 +13,6 @@
 
 ---
 
-## 🧠 Wer bin ich?
-
-Meine Welt dreht sich um **Netzwerke** — alles was Pakete routet, switched oder tunnelt ist mein Terrain.
-Den Code dazu? Den schreibe ich nicht selbst. Ich erkläre einer KI was ich will, denke das Problem durch, und bringe es zum Laufen.
-
-Das ist kein Trick. Das ist ein Skill.
-
----
 
 ## 🚀 Projekte
 
