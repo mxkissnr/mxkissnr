@@ -2,9 +2,6 @@
 
 # Hey, ich bin Max 👋
 
-**Netzwerker · KI-Operator · Espresso-Enthusiast**
-
-*Ich bin kein Programmierer — ich spreche KI. Und das reicht, um echte Dinge zu bauen.*
 
 [![GitHub followers](https://img.shields.io/github/followers/mxkissnr?style=flat-square&color=6366f1)](https://github.com/mxkissnr)
 [![Built with Claude](https://img.shields.io/badge/Built%20with-Claude-8b5cf6?style=flat-square&logo=anthropic)](https://claude.ai)
