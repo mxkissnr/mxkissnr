@@ -53,26 +53,6 @@ Zeigt Maschinenstatus, letzten Shot, Aufheiz-Fortschritt und Power-Button direkt
 
 ---
 
-## 🛠️ Skills
-
-```
-Netzwerk        ████████████████████  Routing, Switching, Firewall, VPN
-Home Assistant  ████████████████░░░░  Automationen, Integrationen, Dashboards
-KI-Prompting    ███████████████████░  Claude, Kontextführung, Architektur-Design
-Espresso        ████████████████████  Extraction Yield, Dial-In, Puck-Prep
-```
-
----
-
-## 🤝 Wie ich arbeite
-
-Ich bin der Beweis, dass du kein Informatikstudium brauchst um Software zu bauen die funktioniert.
-Meine Methode: Problem **wirklich** verstehen → KI gezielt einsetzen → Ergebnis kritisch bewerten → ausliefern.
-
-Die KI schreibt. Ich denke.
-
----
-
 <div align="center">
 
 *Alle Repos entstanden in Zusammenarbeit mit [Claude](https://claude.ai) · Anthropic*
