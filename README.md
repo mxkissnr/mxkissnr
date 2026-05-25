@@ -1,6 +1,6 @@
 <div align="center">
 
-# Maximilian Kissner
+# Hey, ich bin Max 👋
 
 
 [![GitHub followers](https://img.shields.io/github/followers/mxkissnr?style=flat-square&color=6366f1&label=Followers)](https://github.com/mxkissnr?tab=followers)
