@@ -1,49 +1,45 @@
 <div align="center">
 
-# Hey, ich bin Max 👋
+# Maximilian Kissner
 
+**Network Engineer · Home Automation · Open Source**
 
-[![GitHub followers](https://img.shields.io/github/followers/mxkissnr?style=flat-square&color=6366f1)](https://github.com/mxkissnr)
-[![Built with Claude](https://img.shields.io/badge/Built%20with-Claude-8b5cf6?style=flat-square&logo=anthropic)](https://claude.ai)
+[![GitHub followers](https://img.shields.io/github/followers/mxkissnr?style=flat-square&color=6366f1&label=Followers)](https://github.com/mxkissnr?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/mxkissnr?style=flat-square&color=f59e0b&label=Stars)](https://github.com/mxkissnr)
 
 </div>
 
 ---
 
+## Projekte
 
-## 🚀 Projekte
+### Gaggiuino Local Profiler
 
-### ☕ Gaggiuino Local Profiler (GLP)
-> Home Assistant Add-on für Espresso-Daten-Nerds
+Home Assistant Add-on zum Aufzeichnen, Visualisieren und Analysieren von Espresso-Shots der Gaggiuino-Maschine. Enthält Live-Kurven, automatisches Shot-Scoring, Wartungslog und Kaffeebibliothek.
 
-Speichert, visualisiert und analysiert jeden einzelnen Espresso-Shot von der Gaggiuino-Maschine — direkt im Home Assistant. Live-Kurven, Shot-Scoring, Wartungslog, Kaffeebibliothek und mehr.
+[![Add-on](https://img.shields.io/badge/Add--on-gaggiuino--local--profiler-6366f1?style=flat-square&logo=github)](https://github.com/mxkissnr/gaggiuino-local-profiler)
+[![Release](https://img.shields.io/github/v/release/mxkissnr/gaggiuino-local-profiler?style=flat-square&color=22c55e&label=Version)](https://github.com/mxkissnr/gaggiuino-local-profiler/releases)
+[![Stars](https://img.shields.io/github/stars/mxkissnr/gaggiuino-local-profiler?style=flat-square&color=f59e0b)](https://github.com/mxkissnr/gaggiuino-local-profiler/stargazers)
 
-[![Repo](https://img.shields.io/badge/Add--on-gaggiuino--local--profiler-6366f1?style=flat-square&logo=github)](https://github.com/mxkissnr/gaggiuino-local-profiler)
-[![Release](https://img.shields.io/github/v/release/mxkissnr/gaggiuino-local-profiler?style=flat-square&color=22c55e)](https://github.com/mxkissnr/gaggiuino-local-profiler/releases)
+### GLP Home Assistant Integration
 
----
+Stellt alle GLP-Daten als native HA-Sensoren bereit — nutzbar in Automationen, Dashboards und Energie-Monitoring.
 
-### 🔌 GLP Home Assistant Integration
-> Native HA-Sensoren für den Gaggiuino Local Profiler
+[![Integration](https://img.shields.io/badge/Integration-gaggiuino--profiler--integration-6366f1?style=flat-square&logo=github)](https://github.com/mxkissnr/gaggiuino-profiler-integration)
+[![Release](https://img.shields.io/github/v/release/mxkissnr/gaggiuino-profiler-integration?style=flat-square&color=22c55e&label=Version)](https://github.com/mxkissnr/gaggiuino-profiler-integration/releases)
 
-Stellt alle GLP-Daten als echte HA-Entities bereit — nutzbar in Automationen, Dashboards und Energy-Monitoring.
+### GLP Lovelace Card
 
-[![Repo](https://img.shields.io/badge/Integration-gaggiuino--profiler--integration-6366f1?style=flat-square&logo=github)](https://github.com/mxkissnr/gaggiuino-profiler-integration)
+Maßgeschneiderte Lovelace-Karte für Home Assistant: Maschinenstatus, letzter Shot, Aufheiz-Fortschritt und Power-Button — HACS-kompatibel.
 
----
-
-### 🃏 GLP Lovelace Card
-> Maßgeschneiderte HA-Dashboard-Karte für GLP
-
-Zeigt Maschinenstatus, letzten Shot, Aufheiz-Fortschritt und Power-Button direkt im Dashboard. HACS-kompatibel.
-
-[![Repo](https://img.shields.io/badge/Card-glp--lovelace--card-6366f1?style=flat-square&logo=github)](https://github.com/mxkissnr/glp-lovelace-card)
-[![Release](https://img.shields.io/github/v/release/mxkissnr/glp-lovelace-card?style=flat-square&color=22c55e)](https://github.com/mxkissnr/glp-lovelace-card/releases)
+[![Card](https://img.shields.io/badge/Card-glp--lovelace--card-6366f1?style=flat-square&logo=github)](https://github.com/mxkissnr/glp-lovelace-card)
+[![Release](https://img.shields.io/github/v/release/mxkissnr/glp-lovelace-card?style=flat-square&color=22c55e&label=Version)](https://github.com/mxkissnr/glp-lovelace-card/releases)
+[![Stars](https://img.shields.io/github/stars/mxkissnr/glp-lovelace-card?style=flat-square&color=f59e0b)](https://github.com/mxkissnr/glp-lovelace-card/stargazers)
 
 ---
 
 <div align="center">
 
-*Alle Repos entstanden in Zusammenarbeit mit [Claude](https://claude.ai) · Anthropic*
+Entwickelt mit [Claude](https://claude.ai) · Anthropic
 
 </div>
