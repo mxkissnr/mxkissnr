@@ -2,7 +2,6 @@
 
 # Maximilian Kissner
 
-**Network Engineer · Home Automation · Open Source**
 
 [![GitHub followers](https://img.shields.io/github/followers/mxkissnr?style=flat-square&color=6366f1&label=Followers)](https://github.com/mxkissnr?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/mxkissnr?style=flat-square&color=f59e0b&label=Stars)](https://github.com/mxkissnr)
