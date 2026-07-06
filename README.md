@@ -12,16 +12,9 @@
 
 ## Über mich
 
-Ich bin kein Programmierer — von Beruf Netzwerkadministrator, und diesen Titel würde ich mir nicht anmaßen. Was ich mitbringe, ist ein solides technisches Verständnis und echtes Interesse daran, Dinge mit KI umzusetzen. Alles unten ist entstanden, indem ich Claude (Anthropic) angeleitet habe: Ich gebe die Richtung vor, teste alles an echter Hardware und treffe die Entscheidungen zu Umfang und Design — den Code schreibt Claude.
+Ich bin kein Programmierer — diesen Titel würde ich mir nicht anmaßen. Ich kümmere mich sonst eher um Netzwerke, bringe aber ein solides technisches Verständnis und echtes Interesse daran mit, Dinge mit KI umzusetzen. Alles unten ist entstanden, indem ich Claude (Anthropic) angeleitet habe: Ich gebe die Richtung vor, teste alles an echter Hardware und treffe die Entscheidungen zu Umfang und Design — den Code schreibt Claude.
 
----
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mxkissnr&show_icons=true&title_color=6366f1&icon_color=f59e0b&text_color=c9d1d9&bg_color=00000000&border_color=6366f1&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxkissnr&layout=compact&title_color=6366f1&text_color=c9d1d9&bg_color=00000000&border_color=6366f1&hide_border=true"/>
-
-</div>
+Und ja, ich trinke sehr gern Kaffee ☕ — daher auch die Kaffee-Projekte unten.
 
 ---
 
