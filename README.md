@@ -10,9 +10,18 @@
 
 ---
 
-## About
+## Über mich
 
-I'm not a programmer — I'm a network administrator by trade, and I wouldn't claim the title. What I do have is a solid technical background and a real interest in building things with AI. Everything below was built by directing Claude (Anthropic): I define what I want, test everything against real hardware, and make the calls on scope and design — Claude writes the code.
+Ich bin kein Programmierer — von Beruf Netzwerkadministrator, und diesen Titel würde ich mir nicht anmaßen. Was ich mitbringe, ist ein solides technisches Verständnis und echtes Interesse daran, Dinge mit KI umzusetzen. Alles unten ist entstanden, indem ich Claude (Anthropic) angeleitet habe: Ich gebe die Richtung vor, teste alles an echter Hardware und treffe die Entscheidungen zu Umfang und Design — den Code schreibt Claude.
+
+---
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mxkissnr&show_icons=true&title_color=6366f1&icon_color=f59e0b&text_color=c9d1d9&bg_color=00000000&border_color=6366f1&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxkissnr&layout=compact&title_color=6366f1&text_color=c9d1d9&bg_color=00000000&border_color=6366f1&hide_border=true"/>
+
+</div>
 
 ---
 
