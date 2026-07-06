@@ -10,6 +10,12 @@
 
 ---
 
+## About
+
+I'm not a programmer — I'm a network administrator by trade, and I wouldn't claim the title. What I do have is a solid technical background and a real interest in building things with AI. Everything below was built by directing Claude (Anthropic): I define what I want, test everything against real hardware, and make the calls on scope and design — Claude writes the code.
+
+---
+
 ## Projekte
 
 ### Gaggiuino Local Profiler
