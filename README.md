@@ -12,7 +12,7 @@
 
 ## About me
 
-I'm not a programmer — I wouldn't claim that title. My day-to-day is networking, but I bring solid technical understanding and a genuine interest in building things with AI. Everything below came from directing Claude (Anthropic): I set the direction, test everything on real hardware, and make the scope/design calls — Claude writes the code. What that actually looks like (commits, models, cost estimate from git history): [DEVELOPMENT.md](https://github.com/mxkissnr/gaggiuino-local-profiler/blob/main/DEVELOPMENT.md).
+I'm not a programmer — I wouldn't claim that title. I bring solid technical understanding and a genuine interest in building things with AI. Everything below came from directing Claude (Anthropic): I set the direction, test everything on real hardware, and make the scope/design calls — Claude writes the code. What that actually looks like (commits, models, cost estimate from git history): [DEVELOPMENT.md](https://github.com/mxkissnr/gaggiuino-local-profiler/blob/main/DEVELOPMENT.md).
 
 And yes, I really like coffee ☕ — hence the coffee projects below.
 
