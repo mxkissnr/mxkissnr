@@ -2,9 +2,9 @@
 
 # Hey, I'm Max 👋
 
-
 [![GitHub followers](https://img.shields.io/github/followers/mxkissnr?style=flat-square&color=6366f1&label=Followers)](https://github.com/mxkissnr?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/mxkissnr?style=flat-square&color=f59e0b&label=Stars)](https://github.com/mxkissnr)
+[![Discord](https://img.shields.io/badge/Discord-mxkissnr-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1470879502400753730)
 
 </div>
 
@@ -18,36 +18,36 @@ And yes, I really like coffee ☕ — hence the coffee projects below.
 
 ---
 
-## Projects
+## GLP — Gaggiuino Local Profiler
 
-The four projects below make up the **GLP ecosystem** (Gaggiuino Local Profiler) — the app repo is the entry point.
+A Home Assistant ecosystem for espresso machines running **Gaggiuino** or **GaggiMate**. The app is the entry point; the integration and the cards build on it.
 
-### Gaggiuino Local Profiler
+**[Try the demo](https://mxkissnr.github.io/gaggiuino-local-profiler/)** · [Roadmap](https://github.com/users/mxkissnr/projects/2/views/2) · [Discussions](https://github.com/mxkissnr/gaggiuino-local-profiler/discussions)
 
-Home Assistant add-on for recording, visualizing and analyzing espresso shots from a Gaggiuino machine. Includes live curves, automatic shot scoring, a maintenance log and a coffee library.
+### Gaggiuino Local Profiler (app)
 
-[![Add-on](https://img.shields.io/badge/Add--on-gaggiuino--local--profiler-6366f1?style=flat-square&logo=github)](https://github.com/mxkissnr/gaggiuino-local-profiler)
+Home Assistant app that records every shot locally: live curves, shot scoring, statistics, a coffee library for beans and grinders, and a maintenance log.
+
+[![App](https://img.shields.io/badge/App-gaggiuino--local--profiler-6366f1?style=flat-square&logo=github)](https://github.com/mxkissnr/gaggiuino-local-profiler)
 [![Release](https://img.shields.io/github/v/release/mxkissnr/gaggiuino-local-profiler?style=flat-square&color=22c55e&label=Version)](https://github.com/mxkissnr/gaggiuino-local-profiler/releases)
 [![Stars](https://img.shields.io/github/stars/mxkissnr/gaggiuino-local-profiler?style=flat-square&color=f59e0b)](https://github.com/mxkissnr/gaggiuino-local-profiler/stargazers)
 
-### GLP Home Assistant Integration
+### GLP Integration
 
-Exposes all GLP data as native HA sensors — usable in automations, dashboards and energy monitoring.
+Brings GLP into Home Assistant as native entities for automations and dashboards, and installs the GLP Shot Card automatically.
 
 [![Integration](https://img.shields.io/badge/Integration-glp--integration-6366f1?style=flat-square&logo=github)](https://github.com/mxkissnr/glp-integration)
 [![Release](https://img.shields.io/github/v/release/mxkissnr/glp-integration?style=flat-square&color=22c55e&label=Version)](https://github.com/mxkissnr/glp-integration/releases)
 
-### GLP Lovelace Card
+### GLP Shot Card
 
-Custom Lovelace card for Home Assistant: machine status, last shot, warm-up progress and a power button — HACS-compatible.
+Dashboard card for machine status, the last shot, warm-up progress and power. Ships with the integration.
 
 [![Card](https://img.shields.io/badge/Card-glp--lovelace--card-6366f1?style=flat-square&logo=github)](https://github.com/mxkissnr/glp-lovelace-card)
-[![Release](https://img.shields.io/github/v/release/mxkissnr/glp-lovelace-card?style=flat-square&color=22c55e&label=Version)](https://github.com/mxkissnr/glp-lovelace-card/releases)
-[![Stars](https://img.shields.io/github/stars/mxkissnr/glp-lovelace-card?style=flat-square&color=f59e0b)](https://github.com/mxkissnr/glp-lovelace-card/stargazers)
 
 ### GLP Order Card
 
-Lovelace ordering card for roommates and family: pick a drink, choose a bean and milk variant, send the order — the barista sees it in the GLP app and confirms with an ETA.
+Ordering card for family and roommates: pick a drink, bean and milk, send the order. The barista confirms it in the GLP app with an ETA.
 
 [![Card](https://img.shields.io/badge/Card-glp--order--card-6366f1?style=flat-square&logo=github)](https://github.com/mxkissnr/glp-order-card)
 [![Release](https://img.shields.io/github/v/release/mxkissnr/glp-order-card?style=flat-square&color=22c55e&label=Version)](https://github.com/mxkissnr/glp-order-card/releases)
