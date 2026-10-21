@@ -34,23 +34,18 @@ Home Assistant app that records every shot locally: live curves, shot scoring, s
 
 ### GLP Integration
 
-Brings GLP into Home Assistant as native entities for automations and dashboards, and installs the GLP Shot Card automatically.
+Brings GLP into Home Assistant as native entities for automations and dashboards. Both dashboard cards ship with the integration and register automatically, no separate install.
 
 [![Integration](https://img.shields.io/badge/Integration-glp--integration-6366f1?style=flat-square&logo=github)](https://github.com/mxkissnr/glp-integration)
 [![Release](https://img.shields.io/github/v/release/mxkissnr/glp-integration?style=flat-square&color=22c55e&label=Version)](https://github.com/mxkissnr/glp-integration/releases)
 
-### GLP Shot Card
+#### GLP Shot Card
 
-Dashboard card for machine status, the last shot, warm-up progress and power. Ships with the integration.
+Dashboard card for machine status, the last shot, warm-up progress and power. [Docs](https://github.com/mxkissnr/glp-integration/blob/main/DOCS.md#shot-card)
 
-[![Card](https://img.shields.io/badge/Card-glp--lovelace--card-6366f1?style=flat-square&logo=github)](https://github.com/mxkissnr/glp-lovelace-card)
+#### GLP Order Card
 
-### GLP Order Card
-
-Ordering card for family and roommates: pick a drink, bean and milk, send the order. The barista confirms it in the GLP app with an ETA.
-
-[![Card](https://img.shields.io/badge/Card-glp--order--card-6366f1?style=flat-square&logo=github)](https://github.com/mxkissnr/glp-order-card)
-[![Release](https://img.shields.io/github/v/release/mxkissnr/glp-order-card?style=flat-square&color=22c55e&label=Version)](https://github.com/mxkissnr/glp-order-card/releases)
+Ordering card for family and roommates: pick a drink, bean and milk, send the order. The barista confirms it in the GLP app with an ETA. [Docs](https://github.com/mxkissnr/glp-integration/blob/main/DOCS.md#order-card)
 
 ---
 
